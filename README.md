@@ -1,5 +1,17 @@
-# 💫 About Me:
-🚀 I’m currently working on:<br>AI & Data-driven projects using Python, Machine Learning & Google Cloud Platform tools.<br>🤝 I’m looking to collaborate on:<br>Real-world ML / AI solutions, automation tools & analytics dashboards.<br>🌱 I’m currently learning:<br>Google Cloud Platform ☁️, Power BI 📊, Copilot 🤖, Advanced Python & ML workflows.<br>💬 Ask me about:<br>Python 🐍, NumPy, Pandas, ML models, data preprocessing & project deployment.<br>⚡ Fun fact:<br>I enjoy turning messy data into smart insights and clean code 💡💻
+### Currently Working On
+AI/ML and Generative AI solutions built on Google Cloud Platform, including model development, deployment pipelines, and cloud-native data workflows.
+
+### Looking to Collaborate On
+GenAI applications, LLM-powered tools, ML model deployment, and cloud-based AI/ML architectures.
+
+### Currently Learning
+Google Cloud Platform (Vertex AI, BigQuery), Generative AI and LLM engineering, MLOps, and advanced Python/ML workflows.
+
+### Ask Me About
+Python, GCP (Vertex AI, BigQuery, Cloud Functions), Generative AI, LLMs, ML model development, and data preprocessing.
+
+### Focus
+Designing and deploying scalable AI/ML and GenAI solutions on Google Cloud, from data pipeline to production.
 
 
 ## 🌐 Socials:
